@@ -1,0 +1,37 @@
+DONE 1. Colour System probability
+DONE 2. Switch between songs 
+DONE 3. More user interaction before the domain
+PROOF OF CONCEPT COMPLETE
+
+4. start in pygame
+5. main menu
+6. character models
+7. fight animations/cutscenes
+8. domain break animation / functionality
+9. voice lines
+10. more moves
+
+11. more characters
+	-Kashimo
+	-Kusakabe
+	-Yuta
+	-Gojo
+	-Megumi
+	-Yuji
+	-Nobara
+	-Mahito
+	-Toji
+	-everyone else
+
+	-Goku
+	-Jotaro
+	-Kagurabachi
+	-Gundam Rx-78
+	-Licht Bach
+	-Perfect Cell
+	-Dog Ningen
+	-Thorfinn
+	-Ippo
+	-Levi
+	-Denji
+	-
